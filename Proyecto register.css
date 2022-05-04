@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+body{
+    background-image: url(./orco\ vs\ humano\ 2.jpg);
+    background-repeat: no-repeat;
+}
+ main{ 
+     text-align: center; 
+     margin-left: 750px; 
+     margin-right: 750px;
+     background-image: url(./imagen\ proyecto\ main.jfif);
+     background-repeat: no-repeat;
+     background-size: cover;
+     border-bottom-right-radius: 200px; 
+     border-bottom-left-radius: 200px; 
+     border-top-left-radius: 100px; 
+     border-top-right-radius: 100px; 
+     border-style: outset;
+ } 
+
+h1{
+    color: rgba(255, 0, 0, 0.747);
+    font-family: 'Rubik Glitch', cursive;
+    font-size: 40px;
+    
+}
+h2{ 
+    color: rgb(241, 234, 234);
+    font-family: 'Pirata One', cursive;
+    
+}
+
