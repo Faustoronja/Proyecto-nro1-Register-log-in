@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+body{
+    background-image: url(./orco\ vs\ humano\ 2.jpg);
+    background-repeat: no-repeat;
+}
+ main{ 
+     width: 600px;
+     height: 600px;
+     margin: 0 auto;
+     padding: 30px 30px 100px 60px;
+     background-size: 700px;
+    
+    
+     
+     background-image: url(./imagen\ fondo\ 6.jpg);
+    background-repeat: no-repeat; 
+     border-bottom-right-radius: 200px; 
+     border-bottom-left-radius: 200px; 
+     border-top-left-radius: 100px; 
+      border-top-right-radius: 100px;  
+      border-style: outset
+         
+ } 
+
+h1{
+    color: rgba(240, 40, 40, 0.863);
+    font-family: 'Rubik Glitch', cursive;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.video{
+    float: right;
+}
+h2{ 
+    color: rgb(0, 0, 0);
+    font-family: 'Macondo', cursive;
+    
+}
+.botonregistro{
+    margin-left: 180px;
+    background-image: url(./imagen\ main\ register.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 80px;
+    border-radius: 20px;
+   color: white;
+   font-size: 20px;
+    
+    
+}
+

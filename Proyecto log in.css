@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+body{
+    background-image: url(./sylvanas.jpg);
+    background-size: cover;
+}
+main{
+    width: 600px;
+    height: 800px;
+    margin: 0 auto auto 200px;
+    background-color: white;
+    background-image: url(./lk\ login.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 8px;
+    border-radius: 80px;
+    border-width: 5px;
+    border-style:outset;
+    color: rgba(255, 0, 0, 0.808);
+    border-color: brown;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ .boton{margin-top: 100px;
+    margin-bottom: 100px;
+    width: 200px;
+    height: 70px;
+   background-image: url(./horde\ vs\ alliance.jfif);
+    background-size: 190px;
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    border-width: 5px;
+    font-size: 25px;
+ }  
+h1,h2{
+    font-family: 'Rubik Bubbles', cursive;
+    
+    
+}
+h2{
+    font-size: 40px;
+}
